@@ -8,11 +8,6 @@ Website
 
 https://image-scrambler-game.herokuapp.com/
 
-Video Demonstration
-===================
-
-https://www.youtube.com/watch?v=BNmb7fpG_LQ
-
 Instructions
 ============
 
